@@ -1,7 +1,7 @@
 About
 -----
 
-Copyright Philippe Suter (psuter)
+Copyright: Philippe Suter (psuter)
 
 Cafebabe is a tiny Scala library to generate JVM class files. It was originally
 developed for the Compiler Construction course taught at EPFL. See
